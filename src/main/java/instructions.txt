@@ -1,0 +1,5 @@
+Day 3 (Single Dev): Blogging Platform
+Develop a Java application for a simple blogging platform using MongoDB.
+Implement CRUD operations for blog posts.
+Allow users to add comments to blog posts and manage their own posts.
+Design a simple UI to display blog posts and comments.
